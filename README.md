@@ -9,7 +9,7 @@
 [![Demo Video](https://img.shields.io/badge/🎬%20Demo%20Video-Watch%20Now-FF3B30?style=for-the-badge)](https://drive.google.com/file/d/1QgYbqLvKe8NAZzPk0AWRITkVlwYmmuGH/view?usp=drivesdk)
 [![AI Assistant](https://img.shields.io/badge/🤖%20AI%20Assistant-Explainable%20AI-8A2BE2?style=for-the-badge)](#-personal-ai-assistant--trust-layer-for-workers)
 [![Architecture](https://img.shields.io/badge/🧠%20Architecture-System%20Design-0A66C2?style=for-the-badge)](#solution-architecture)
-[![📊 View Pitch](https://img.shields.io/badge/📊%20View%20Pitch-Quick-FF6F00?style=for-the-badge)](https://your-drive-link-here)
+[![📊 View Pitch](https://img.shields.io/badge/📊%20View%20Pitch-Quick-FF6F00?style=for-the-badge)](https://drive.google.com/file/d/1k_qXL3xiNpdslpyDKboubM9w45vB1sb-/view?usp=drivesdk)
 </div>
 
 ---
@@ -269,7 +269,7 @@ GigShield AI runs as a **fully automated, real-time insurance system** — from 
 
 A concise overview of GigShield AI — problem, solution, architecture, and business model.
 
-👉 **[View Pitch Deck (Public Link)](https://your-drive-link-here)**
+👉 **[View Pitch Deck (Public Link)](https://drive.google.com/file/d/1k_qXL3xiNpdslpyDKboubM9w45vB1sb-/view?usp=drivesdk)**
 
 ---
 
@@ -1023,6 +1023,7 @@ erDiagram
 | **Live Prototype** | [gigshield-ai-teamspark.vercel.app](https://gigshield-ai-teamspark.vercel.app/) |
 | **Supabase Project** | `zzuwhabrryispdnujdsc.supabase.co` |
 | **Demo Video** | [🎬 Watch (5 min)](https://drive.google.com/file/d/1QgYbqLvKe8NAZzPk0AWRITkVlwYmmuGH/view?usp=drivesdk) |
+| 📊 **Pitch Deck** | https://drive.google.com/file/d/1k_qXL3xiNpdslpyDKboubM9w45vB1sb-/view?usp=drivesdk |
 
 ---
 
