@@ -6,7 +6,7 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-00C7B7?logo=vercel&style=for-the-badge)](https://gigshield-ai-teamspark.vercel.app/)
 [![Hackathon](https://img.shields.io/badge/Guidewire-DEVTrails%202026-0052CC?style=for-the-badge)]()
 [![Phase](https://img.shields.io/badge/Phase%203-COMPLETE-22c55e?style=for-the-badge)]()
-[![Demo Video](https://img.shields.io/badge/🎬%20Demo%20Video-Watch%20Now-FF3B30?style=for-the-badge)](https://drive.google.com/file/d/1QgYbqLvKe8NAZzPk0AWRITkVlwYmmuGH/view?usp=drivesdk)
+[![Demo Video](https://img.shields.io/badge/🎬%20Demo%20Video-Watch%20Now-FF3B30?style=for-the-badge)](https://drive.google.com/file/d/1CR6NZOjECvXXuaNE8psAGqJDpFnBMlPI/view?usp=drive_link)
 [![AI Assistant](https://img.shields.io/badge/🤖%20AI%20Assistant-Explainable%20AI-8A2BE2?style=for-the-badge)](#-personal-ai-assistant--trust-layer-for-workers)
 [![Architecture](https://img.shields.io/badge/🧠%20Architecture-System%20Design-0A66C2?style=for-the-badge)](#solution-architecture)
 [![📊 View Pitch](https://img.shields.io/badge/📊%20View%20Pitch-Quick-FF6F00?style=for-the-badge)](https://drive.google.com/file/d/1k_qXL3xiNpdslpyDKboubM9w45vB1sb-/view?usp=drivesdk)
@@ -81,7 +81,7 @@ This is not a concept. This is a **live, working system** — real weather APIs,
 9. 🤖 Ravi asks: “Why ₹1,925?” → AI assistant explains instantly with full breakdown
 ```
 
-🎥 **[Watch the full 5-minute demo](https://drive.google.com/file/d/1QgYbqLvKe8NAZzPk0AWRITkVlwYmmuGH/view?usp=drivesdk)**
+🎥 **[Watch the full 5-minute demo](https://drive.google.com/file/d/1CR6NZOjECvXXuaNE8psAGqJDpFnBMlPI/view?usp=drive_link)**
 
 ---
 
@@ -92,7 +92,7 @@ This is not a concept. This is a **live, working system** — real weather APIs,
 No setup needed.
 
 * 🌐 **Live App:** https://gigshield-ai-teamspark.vercel.app/
-* 🎬 **Demo Video (5 min):** https://drive.google.com/file/d/1QgYbqLvKe8NAZzPk0AWRITkVlwYmmuGH/view
+* 🎬 **Demo Video (5 min):**https://drive.google.com/file/d/1CR6NZOjECvXXuaNE8psAGqJDpFnBMlPI/view?usp=drive_link
 
 ```text
 Login:
@@ -1022,7 +1022,7 @@ erDiagram
 | **GitHub Repository** | [github.com/zoro-hue/gigshield-ai](https://github.com/zoro-hue/gigshield-ai) |
 | **Live Prototype** | [gigshield-ai-teamspark.vercel.app](https://gigshield-ai-teamspark.vercel.app/) |
 | **Supabase Project** | `zzuwhabrryispdnujdsc.supabase.co` |
-| **Demo Video** | [🎬 Watch (5 min)](https://drive.google.com/file/d/1QgYbqLvKe8NAZzPk0AWRITkVlwYmmuGH/view?usp=drivesdk) |
+| **Demo Video** | [🎬 Watch (5 min)](https://drive.google.com/file/d/1CR6NZOjECvXXuaNE8psAGqJDpFnBMlPI/view?usp=drive_link) |
 | 📊 **Pitch Deck** | https://drive.google.com/file/d/1k_qXL3xiNpdslpyDKboubM9w45vB1sb-/view?usp=drivesdk |
 
 ---
